@@ -1,0 +1,1 @@
+# golfscript-simple-docs
